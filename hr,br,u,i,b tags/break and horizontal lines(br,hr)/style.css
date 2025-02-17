@@ -1,0 +1,10 @@
+body{
+    background-color:black;
+}
+p{
+    color:rgb(88, 141, 189);
+    font-family: "Cambria";
+}
+hr{
+    border:0.5px solid rgb(231, 61, 61);
+}
